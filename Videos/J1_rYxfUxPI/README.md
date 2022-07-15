@@ -2,6 +2,8 @@
 
 Here's the list of extensions you should use with VSCode.
 
+[**Video On YouTube**](https://youtu.be/J1_rYxfUxPI)
+
 # Extensions
 
 - Python

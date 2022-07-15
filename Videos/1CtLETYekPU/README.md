@@ -2,6 +2,8 @@
 
 Here's all the base settings that I use for my VSCode setup. You can find the [JSON file](./data/settings.json) over here.
 
+[**Video On YouTube**](https://youtu.be/1CtLETYekPU)
+
 ## Text Editor
 
 - Bracket Pair Colorization - On
