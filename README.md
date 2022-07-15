@@ -5,3 +5,4 @@ All the resources displayed in my [YouTube videos](https://www.youtube.com/chann
 ## Videos
 
 - [VSCode Settings You Should Use](./Videos/1CtLETYekPU/)
+- [VSCode Extensions You Should Have](./Videos/J1_rYxfUxPI/)
